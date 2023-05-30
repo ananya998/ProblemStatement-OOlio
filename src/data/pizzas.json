@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Small",
+    "description": "Fresh tomatoes and mozzarella cheese.",
+    "price": 11.99
+  },
+  {
+    "id": 2,
+    "name": "Medium",
+    "description": "Fresh tomatoes, extra virgin olive oil, oregano and garlic.",
+    "price": 15.99
+  },
+  {
+    "id": 3,
+    "name": "Large",
+    "description": "Fresh mozzarella, tomatoes, basil and balsamic vinegar.",
+    "price": 21.99
+  },
+  {
+    "id": 4,
+    "name": "Margherita",
+    "description": "Fresh tomatoes, mozzarella cheese, fresh basil, salt and extra-virgin olive oil.",
+    "price": 10.99,
+    "specialOffer": true
+  }
+]

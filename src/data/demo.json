@@ -1,0 +1,35 @@
+[
+    {
+        "id":1,
+        "customer": "microsoft",
+        "type": "small",
+        "quantity": 3,
+        "discounted_price": 0,
+        "extra": 1
+    },
+    {
+        "id":2,
+        "customer": "amazon",
+        "type": "large",
+        "quantity": 1,
+        "discounted_price": 19.99,
+        "extra": 0
+    },
+    {
+        "id" : 3,
+        "customer": "facebook",
+        "type": "medium",
+        "quantity": 5,
+        "discounted_price": 0,
+        "extra": 1
+    },
+    {
+        "id": 4,
+        "customer": "default",
+        "type": "none",
+        "quantity": 0,
+        "discounted_price": 0,
+        "extra": 0
+    }
+
+]
