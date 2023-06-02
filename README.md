@@ -1,6 +1,6 @@
 # ProblemStatement-OOlio
  
- This Project includes a src directory with all code types and all the cconfiguration files
+ This Project includes a src directory with all code types and all the cconfiguration files and Solution.ts files which included the logic and solution structing
 
  For running this project in local systems
 ## Step1 : Clone the code from github by copying the link
