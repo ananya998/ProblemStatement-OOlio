@@ -9,7 +9,7 @@
 ## Step 2: Open the same directory where project is and install node pacakges
    npm install
 ### Install Webpack in local system
-   npm install webpack --save
+   npm install webpack --save \n
    npm install webpack-dev-server --save
    npm install webpack-cli --save
 ### Install Babel in local system
