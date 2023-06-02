@@ -15,6 +15,7 @@
 ### Install Babel in local system
     npm install babel-core babel-loader babel-preset-env
  ## Step 3: 
-  Give the last command <br>
+  Give the command <br>
+  npm run build <br>
   npm run start
   
