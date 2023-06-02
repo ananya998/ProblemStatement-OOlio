@@ -10,11 +10,11 @@
    npm install
 ### Install Webpack in local system
    npm install webpack --save <br>
-   npm install webpack-dev-server --save
-   npm install webpack-cli --save
+   npm install webpack-dev-server --save <br>
+   npm install webpack-cli --save <br>
 ### Install Babel in local system
     npm install babel-core babel-loader babel-preset-env
  ## Step 3: 
-  Give the last command 
+  Give the last command <br>
   npm run start
   
